@@ -1,0 +1,26 @@
+{
+  "name": "hello-sja-pathway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+"lint:css": "stylelint **/*.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ra99Sa14/hello-sja-pathway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ra99Sa14/hello-sja-pathway/issues"
+  },
+  "homepage": "https://github.com/Ra99Sa14/hello-sja-pathway#readme",
+  "devDependencies": {
+    "stylelint": "^16.20.0",
+    "stylelint-config-standard": "^38.0.0"
+  }
+}
